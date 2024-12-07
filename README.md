@@ -37,7 +37,7 @@ Within Microsoft Azure platform, create a Virtual Machine and install Windows Se
 <img src="https://i.imgur.com/LjjTuXR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After VM has been installed, we are going to use VM's public IP address to log into it with RDP, and use private IP address to check network connectivity.
+After VM has been installed, scroll to the VM's properties tab to view all the VM's information {machine name, operating system installed, IP addresses,etc}, we are going to log-in to the VM with RDP using its public IP address.
 </p>
 <br />
 
